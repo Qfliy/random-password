@@ -1,2 +1,2 @@
 # random-password
-Random password cli generator
+Random password cli generator wrriten on Rust
